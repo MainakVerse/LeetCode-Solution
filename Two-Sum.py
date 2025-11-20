@@ -1,4 +1,3 @@
-# Code Flow
 # Create a hashmap that saves both value and index
 # Iterate through array and check if the index equals complement. 
 # In 1st case it will always be false as hashmap is empty, so add the first occurence to hashmap.
